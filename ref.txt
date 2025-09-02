@@ -1,0 +1,70 @@
+U-Net：Ronneberger O, Fischer P, Brox T. U-net: Convolutional networks for biomedical image segmentation[C]//International Conference on Medical image computing and computer-assisted intervention. Cham: Springer international publishing, 2015: 234-241.
+Ronneberger, Olaf, Philipp Fischer, and Thomas Brox. "U-net: Convolutional networks for biomedical image segmentation." International Conference on Medical image computing and computer-assisted intervention. Cham: Springer international publishing, 2015.
+Ronneberger, O., Fischer, P., & Brox, T. (2015, October). U-net: Convolutional networks for biomedical image segmentation. In International Conference on Medical image computing and computer-assisted intervention (pp. 234-241). Cham: Springer international publishing.
+
+
+PraNet：Fan D P, Ji G P, Zhou T, et al. Pranet: Parallel reverse attention network for polyp segmentation[C]//International conference on medical image computing and computer-assisted intervention. Cham: Springer International Publishing, 2020: 263-273.
+Fan, Deng-Ping, et al. "Pranet: Parallel reverse attention network for polyp segmentation." International conference on medical image computing and computer-assisted intervention. Cham: Springer International Publishing, 2020.
+Fan, D. P., Ji, G. P., Zhou, T., Chen, G., Fu, H., Shen, J., & Shao, L. (2020, September). Pranet: Parallel reverse attention network for polyp segmentation. In International conference on medical image computing and computer-assisted intervention (pp. 263-273). Cham: Springer International Publishing.
+
+
+ConvSegNet：Ige A O, Tomar N K, Aranuwa F O, et al. ConvSegNet: Automated polyp segmentation from colonoscopy using context feature refinement with multiple convolutional kernel sizes[J]. IEEE Access, 2023, 11: 16142-16155.
+Ige, Ayokunle Olalekan, et al. "ConvSegNet: Automated polyp segmentation from colonoscopy using context feature refinement with multiple convolutional kernel sizes." IEEE Access 11 (2023): 16142-16155.
+Ige, A. O., Tomar, N. K., Aranuwa, F. O., Oriola, O., Akingbesote, A. O., Noor, M. H. M., ... & Aribisala, B. S. (2023). ConvSegNet: Automated polyp segmentation from colonoscopy using context feature refinement with multiple convolutional kernel sizes. IEEE Access, 11, 16142-16155.
+
+ECTransNet：Liu W, Li Z, Li C, et al. Ectransnet: an automatic polyp segmentation network based on multi-scale edge complementary[J]. Journal of Digital Imaging, 2023, 36(6): 2427-2440.
+Liu, Weikang, et al. "Ectransnet: an automatic polyp segmentation network based on multi-scale edge complementary." Journal of Digital Imaging 36.6 (2023): 2427-2440.
+Liu, W., Li, Z., Li, C., & Gao, H. (2023). Ectransnet: an automatic polyp segmentation network based on multi-scale edge complementary. Journal of Digital Imaging, 36(6), 2427-2440.
+
+ConDSeg：Lei M, Wu H, Lv X, et al. Condseg: A general medical image segmentation framework via contrast-driven feature enhancement[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(5): 4571-4579.
+Lei, Mengqi, et al. "Condseg: A general medical image segmentation framework via contrast-driven feature enhancement." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 39. No. 5. 2025.
+Lei, M., Wu, H., Lv, X., & Wang, X. (2025, April). Condseg: A general medical image segmentation framework via contrast-driven feature enhancement. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 39, No. 5, pp. 4571-4579).
+
+
+resnet：He K, Zhang X, Ren S, et al. Identity mappings in deep residual networks[C]//European conference on computer vision. Cham: Springer International Publishing, 2016: 630-645.
+He, Kaiming, et al. "Identity mappings in deep residual networks." European conference on computer vision. Cham: Springer International Publishing, 2016.
+He, K., Zhang, X., Ren, S., & Sun, J. (2016, September). Identity mappings in deep residual networks. In European conference on computer vision (pp. 630-645). Cham: Springer International Publishing.
+
+Kvasir-seg：@inproceedings{jha2020kvasir,
+  title={Kvasir-seg: A segmented polyp dataset},
+  author={Jha, Debesh and Smedsrud, Pia H and Riegler, Michael A and Halvorsen, P{\aa}l and de Lange, Thomas and Johansen, Dag and Johansen, H{\aa}vard D},
+  booktitle={MultiMedia Modeling: 26th International Conference, MMM 2020, Daejeon, South Korea, January 5--8, 2020, Proceedings, Part II 26},
+  pages={451--462},
+  year={2020}
+}
+
+CVC-ClinicDB：@article{bernal2015wm,
+  title={WM-DOVA maps for accurate polyp highlighting in colonoscopy: Validation vs. saliency maps from physicians},
+  author={Bernal, Jorge and S{\'a}nchez, F Javier and Fern{\'a}ndez-Esparrach, Gloria and Gil, Debora and Rodr{\'\i}guez, Cristina and Vilari{\~n}o, Fernando},
+  journal={Computerized medical imaging and graphics},
+  volume={43},
+  pages={99--111},
+  year={2015},
+  publisher={Elsevier}
+}
+
+
+Glas：Sirinukunwattana, K.; Pluim, J. P.; Chen, H.; Qi, X.; Heng,
+P.-A.; Guo, Y. B.; Wang, L. Y.; Matuszewski, B. J.; Bruni,
+E.; Sanchez, U.; et al. 2017. Gland segmentation in colon
+histology images: The glas challenge contest. Medical image analysis, 35: 489–502.
+
+指标：Ye Z, Chen T, Wang Z, et al. HFE-RWKV: High-Frequency Enhanced RWKV Model for Efficient Left Ventricle Segmentation in Pediatric Echocardiograms[C]//ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025: 1-5.
+Ye, Zi, et al. "HFE-RWKV: High-Frequency Enhanced RWKV Model for Efficient Left Ventricle Segmentation in Pediatric Echocardiograms." ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025.
+Ye, Z., Chen, T., Wang, Z., Zhang, H., & Zhang, L. (2025, April). HFE-RWKV: High-Frequency Enhanced RWKV Model for Efficient Left Ventricle Segmentation in Pediatric Echocardiograms. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
+
+
+UNet++：Zhou Z, Rahman Siddiquee M M, Tajbakhsh N, et al. Unet++: A nested u-net architecture for medical image segmentation[C]//International workshop on deep learning in medical image analysis. Cham: Springer International Publishing, 2018: 3-11.
+Zhou, Zongwei, et al. "Unet++: A nested u-net architecture for medical image segmentation." International workshop on deep learning in medical image analysis. Cham: Springer International Publishing, 2018.
+Zhou, Z., Rahman Siddiquee, M. M., Tajbakhsh, N., & Liang, J. (2018, September). Unet++: A nested u-net architecture for medical image segmentation. In International workshop on deep learning in medical image analysis (pp. 3-11). Cham: Springer International Publishing.
+
+ResNet：Alom M Z, Yakopcic C, Hasan M, et al. Recurrent residual U-Net for medical image segmentation[J]. Journal of medical imaging, 2019, 6(1): 014006-014006.
+Alom, Md Zahangir, et al. "Recurrent residual U-Net for medical image segmentation." Journal of medical imaging 6.1 (2019): 014006-014006.
+Alom, M. Z., Yakopcic, C., Hasan, M., Taha, T. M., & Asari, V. K. (2019). Recurrent residual U-Net for medical image segmentation. Journal of medical imaging, 6(1), 014006-014006.
+
+
+
+对比实验：jha D, Tomar N K, Sharma V, et al. TransNetR: transformer-based residual network for polyp segmentation with multi-center out-of-distribution testing[C]//Medical Imaging with Deep Learning. PMLR, 2024: 1372-1384.
+Jha, Debesh, et al. "TransNetR: transformer-based residual network for polyp segmentation with multi-center out-of-distribution testing." Medical Imaging with Deep Learning. PMLR, 2024.
+Jha, D., Tomar, N. K., Sharma, V., & Bagci, U. (2024, January). TransNetR: transformer-based residual network for polyp segmentation with multi-center out-of-distribution testing. In Medical Imaging with Deep Learning (pp. 1372-1384). PMLR.
+
