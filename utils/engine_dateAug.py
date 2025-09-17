@@ -9,7 +9,7 @@ from torchvision import transforms
 from .utils import calculate_metrics
 from tqdm import tqdm
 
-#
+
 torch.backends.cudnn.benchmark = True
 torch.backends.cudnn.deterministic = False
 # import os
