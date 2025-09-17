@@ -1,4 +1,5 @@
 The directory structure of the data storage is as follows:
+'''
 data
 ├── dataset name #The specific dataset name should be provided here.              
 │   ├── images       
@@ -15,3 +16,4 @@ data
 │   │   └── ......
 │   ├── train.txt
 │   └── val.txt
+'''
